@@ -48,10 +48,5 @@ http://43.204.109.98:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
-<id>snapshots</id>
-<url>
-http://43.204.109.98:8081/repository/snapshot/
-</url>
-</snapshotRepository>
 </distributionManagement>
 </project>
